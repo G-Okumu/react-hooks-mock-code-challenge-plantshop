@@ -23,6 +23,16 @@ button {
   cursor: pointer;
 }
 
+.delete{
+  padding: 0.25rem 1rem;
+  font-family: inherit;
+  border: none;
+  float: right;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+
 button.primary {
   background-color: var(--green);
   color: white;
